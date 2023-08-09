@@ -8,6 +8,9 @@
 /doc/html
 /doc/doxygen_*.db
 *.a
+# Directories created by Visual Studio
+/out
+/.vs
 
 # Temporary files created during CMake build
 CMakeCache.txt
